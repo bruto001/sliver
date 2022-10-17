@@ -48,7 +48,7 @@ require (
 	google.golang.org/grpc v1.42.0-dev.0.20211020220737-f00baa6c3c84
 	google.golang.org/protobuf v1.28.1
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
-	gorm.io/driver/mysql v1.4.1
+	gorm.io/driver/mysql v1.4.3
 	gorm.io/driver/postgres v1.4.4
 	gorm.io/driver/sqlite v1.4.2
 	gorm.io/gorm v1.24.0
@@ -78,7 +78,6 @@ require (
 	github.com/gobwas/ws v1.1.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/btree v1.0.1 // indirect
-	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/go-uuid v1.0.2 // indirect
@@ -123,7 +122,6 @@ require (
 	gopkg.in/jcmturner/goidentity.v3 v3.0.0 // indirect
 	gopkg.in/jcmturner/gokrb5.v7 v7.5.0 // indirect
 	gopkg.in/jcmturner/rpc.v1 v1.1.0 // indirect
-	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	lukechampine.com/uint128 v1.1.1 // indirect
 	modernc.org/cc/v3 v3.35.24 // indirect
